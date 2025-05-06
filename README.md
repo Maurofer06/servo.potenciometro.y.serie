@@ -1,0 +1,1 @@
+# servo.potenciometro.y.serie
